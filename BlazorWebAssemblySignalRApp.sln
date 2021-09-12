@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWebAssemblySignalRApp.Server", "BlazorWebAssemblySignalRApp\Server\BlazorWebAssemblySignalRApp.Server.csproj", "{ABE29241-49E3-479E-ACC1-AC13CE36444D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWebAssemblySignalRApp.Client", "BlazorWebAssemblySignalRApp\Client\BlazorWebAssemblySignalRApp.Client.csproj", "{FD151A4F-539E-4D16-8266-786DC1F63398}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWebAssemblySignalRApp.Shared", "BlazorWebAssemblySignalRApp\Shared\BlazorWebAssemblySignalRApp.Shared.csproj", "{ADF22A1D-8757-45B1-9863-272DA0DB3E79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABE29241-49E3-479E-ACC1-AC13CE36444D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE29241-49E3-479E-ACC1-AC13CE36444D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE29241-49E3-479E-ACC1-AC13CE36444D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE29241-49E3-479E-ACC1-AC13CE36444D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD151A4F-539E-4D16-8266-786DC1F63398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD151A4F-539E-4D16-8266-786DC1F63398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD151A4F-539E-4D16-8266-786DC1F63398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD151A4F-539E-4D16-8266-786DC1F63398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADF22A1D-8757-45B1-9863-272DA0DB3E79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF22A1D-8757-45B1-9863-272DA0DB3E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF22A1D-8757-45B1-9863-272DA0DB3E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF22A1D-8757-45B1-9863-272DA0DB3E79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03AFE7AB-C80A-400B-B600-F70FD80ED2DE}
+	EndGlobalSection
+EndGlobal
